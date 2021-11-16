@@ -24,7 +24,7 @@
   <header>
   <nav class="navbar navbar-expand-lg navbar-light bg-white sticky" data-offset="500">
       <div class="container">
-        <a href="#" class="navbar-brand">Seo<span class="text-primary">Gram.</span></a>
+        <a href="#" class="navbar-brand">S<span class="text-primary">K</span>S</a>
 
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -33,20 +33,22 @@
         <div class="navbar-collapse collapse" id="navbarContent">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="/">Home</a>
+              <a class="nav-link" href="/">Beranda</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="/about">About</a>
+              <a class="nav-link" href="/about">Profil</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/galery">Galeri</a>
             </li>
             <li class="nav-item active">
               <a class="nav-link" href="/blog">Blog</a>
             </li>
             <li class="nav-item">
-              <a class="btn btn-primary ml-lg-2" href="/classification">Waste Classification</a>
+              <a class="btn btn-primary ml-lg-2" href="/classification">Klasifikasi Sampah</a>
             </li>
           </ul>
         </div>
-
       </div>
     </nav>
 
@@ -56,7 +58,7 @@
           <div class="col-md-6">
             <nav aria-label="Breadcrumb">
               <ul class="breadcrumb justify-content-center py-0 bg-transparent">
-                <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                <li class="breadcrumb-item"><a href="/">Beranda</a></li>
                 <li class="breadcrumb-item active">Blog</li>
               </ul>
             </nav>
@@ -75,12 +77,12 @@
             <div class="input-group">
               <div class="input-group-prepend">
                 <select id="categories" class="custom-select bg-light">
-                  <option>All Categories</option>
-                  <option value="travel">Travel</option>
-                  <option value="lifestyle">LifeStyle</option>
-                  <option value="healthy">Healthy</option>
-                  <option value="food">Food</option>
-                </select>
+                    <option>Semua Kategori</option>
+                    <option value="workshop">Workshop</option>
+                    <option value="magang">Magang</option>
+                    <option value="daurUlang">Daur Ulang</option>
+                    <option value="pelatihan">Pelatihan</option>
+                  </select>
               </div>
               <input type="text" class="form-control" placeholder="Enter keyword..">
             </div>
@@ -100,7 +102,7 @@
               </div>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
+              <h5 class="post-title"><a href="/blog/details">Source of Content Inspiration</a></h5>
               <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
             </div>
           </div>
@@ -114,7 +116,7 @@
               </div>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
+              <h5 class="post-title"><a href="/blog/details">Source of Content Inspiration</a></h5>
               <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
             </div>
           </div>
@@ -128,7 +130,7 @@
               </div>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
+              <h5 class="post-title"><a href="/blog/details">Source of Content Inspiration</a></h5>
               <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
             </div>
           </div>
@@ -142,7 +144,7 @@
               </div>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
+              <h5 class="post-title"><a href="/blog-details">Source of Content Inspiration</a></h5>
               <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
             </div>
           </div>
@@ -156,7 +158,7 @@
               </div>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
+              <h5 class="post-title"><a href="/blog/details">Source of Content Inspiration</a></h5>
               <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
             </div>
           </div>
@@ -170,7 +172,7 @@
               </div>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
+              <h5 class="post-title"><a href="/blog/details">Source of Content Inspiration</a></h5>
               <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
             </div>
           </div>
@@ -184,7 +186,7 @@
               </div>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
+              <h5 class="post-title"><a href="/blog/details">Source of Content Inspiration</a></h5>
               <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
             </div>
           </div>
@@ -198,7 +200,7 @@
               </div>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
+              <h5 class="post-title"><a href="/blog/details">Source of Content Inspiration</a></h5>
               <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
             </div>
           </div>
@@ -212,7 +214,7 @@
               </div>
             </div>
             <div class="body">
-              <h5 class="post-title"><a href="blog-details.html">Source of Content Inspiration</a></h5>
+              <h5 class="post-title"><a href="/blog/details">Source of Content Inspiration</a></h5>
               <div class="post-date">Posted on <a href="#">27 Jan 2020</a></div>
             </div>
           </div>
@@ -242,8 +244,8 @@
   <footer class="page-footer bg-image" style="background-image: url(../assets/img/world_pattern.svg);">
     <div class="container">
       <div class="row mb-5">
-        <div class="col-lg-3 py-3">
-          <h3>SEOGram</h3>
+        <div class="col-lg-4 py-3">
+          <h3>SKS</h3>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero amet, repellendus eius blanditiis in iusto eligendi iure.</p>
 
           <div class="social-media-button">
@@ -254,33 +256,25 @@
             <a href="#"><span class="mai-logo-youtube"></span></a>
           </div>
         </div>
-        <div class="col-lg-3 py-3">
-          <h5>Company</h5>
+        <div class="col-lg-4 py-3">
+          <h5>Navigasi</h5>
           <ul class="footer-menu">
-            <li><a href="#">About Us</a></li>
-            <li><a href="#">Career</a></li>
-            <li><a href="#">Advertise</a></li>
-            <li><a href="#">Terms of Service</a></li>
+            <li><a href="#">Profil</a></li>
+            <li><a href="#">Galeri</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Klasifikasi Sampah</a></li>
             <li><a href="#">Help & Support</a></li>
           </ul>
         </div>
-        <div class="col-lg-3 py-3">
-          <h5>Contact Us</h5>
-          <p>203 Fake St. Mountain View, San Francisco, California, USA</p>
-          <a href="#" class="footer-link">+00 1122 3344 5566</a>
-          <a href="#" class="footer-link">seogram@temporary.com</a>
-        </div>
-        <div class="col-lg-3 py-3">
-          <h5>Newsletter</h5>
-          <p>Get updates, news or events on your mail.</p>
-          <form action="#">
-            <input type="text" class="form-control" placeholder="Enter your email..">
-            <button type="submit" class="btn btn-success btn-block mt-2">Subscribe</button>
-          </form>
+        <div class="col-lg-4 py-3">
+          <h5>Kontak Kami</h5>
+          <p>Jl. Bunga Vinolia 5 Malang 65141, Indonesia</p>
+          <a href="#" class="footer-link">+62 859 5642 8300</a>
+          <a href="#" class="footer-link">admin@sks.com/a>
         </div>
       </div>
 
-      <p class="text-center" id="copyright">Copyright &copy; 2020. This template design and develop by <a href="https://macodeid.com/" target="_blank">MACode ID</a></p>
+      <p class="text-center" id="copyright">Copyright &copy; 2021. Design and develop by <a href="https://macodeid.com/" target="_blank">Kelompok 4</a></p>
     </div>
   </footer>
 
