@@ -6,9 +6,7 @@
 
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-  <meta name="copyright" content="MACode ID, https://macodeid.com/">
-
-  <title>SeoGram - SEO Agency Template</title>
+  <title>Sistem Klasifikasi Sampah</title>
 
   <link rel="stylesheet" href="../assets/css/maicons.css">
 
@@ -17,6 +15,7 @@
   <link rel="stylesheet" href="../assets/vendor/animate/animate.css">
 
   <link rel="stylesheet" href="../assets/css/theme.css">
+
 </head>
 <body>
 
@@ -24,37 +23,33 @@
   <div class="back-to-top"></div>
   
   <header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-white sticky" data-offset="300">
+  <nav class="navbar navbar-expand-lg navbar-light bg-white sticky" data-offset="500">
       <div class="container">
-        <a href="#" class="navbar-brand">Seo<span class="text-primary">Gram.</span></a>
+        <a href="#" class="navbar-brand">S<span class="text-primary">K</span>S</a>
 
         <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="navbar-collapse collapsed" id="navbarContent">
+        <div class="navbar-collapse collapse" id="navbarContent">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="index.html">Home</a>
+              <a class="nav-link" href="/">Beranda</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="about.html">About</a>
+              <a class="nav-link" href="/about">Profil</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="service.html">Services</a>
+              <a class="nav-link" href="/galery">Galeri</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/blog">Blog</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="blog.html">Blog</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="contact.html">Contact</a>
-            </li>
-            <li class="nav-item">
-              <a class="btn btn-primary ml-lg-2" href="#">Free Analytics</a>
+              <a class="btn btn-primary ml-lg-2" href="/classification">Klasifikasi Sampah</a>
             </li>
           </ul>
         </div>
-
       </div>
     </nav>
   </header>
@@ -63,8 +58,8 @@
     <div class="container">
       <nav aria-label="Breadcrumb">
         <ul class="breadcrumb p-0 mb-0 bg-transparent">
-          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-          <li class="breadcrumb-item"><a href="blog.html">Blog</a></li>
+          <li class="breadcrumb-item"><a href="/">Beranda</a></li>
+          <li class="breadcrumb-item"><a href="/blog">Blog</a></li>
           <li class="breadcrumb-item active">Second divided from form fish beastr</li>
         </ul>
       </nav>
@@ -74,14 +69,14 @@
           <div class="blog-single-wrap">
             <div class="header">
               <div class="post-thumb">
-                <img src="../assets/img/blog/blog-1.jpg" alt="">
+                <img src="../assets/img/blog/blog.jpg" alt="">
               </div>
               <div class="meta-header">
                 <div class="post-author">
                   <div class="avatar">
                     <img src="../assets/img/person/person_1.jpg" alt="">
                   </div>
-                  by <a href="#">Stephen Doe</a>
+                  by <a href="#">Ferdy Febriyanto</a>
                 </div>
 
                 <div class="post-sharer">
@@ -92,12 +87,12 @@
                 </div>
               </div>
             </div>
-            <h1 class="post-title">Second divided from form fish beastr</h1>
+            <h1 class="post-title">Dari Nasabah untuk Nasabah</h1>
             <div class="post-meta">
               <div class="post-date">
                 <span class="icon">
                   <span class="mai-time-outline"></span>
-                </span> <a href="#">March 10, 2020</a>
+                </span> <a href="#">November 16, 2021</a>
               </div>
               <div class="post-comment-count ml-2">
                 <span class="icon">
@@ -106,12 +101,10 @@
               </div>
             </div>
             <div class="post-content">
-              <p>MCSE boot camps have its supporters and its detractors. Some people do not understand why you should have to spend money on boot camp when you can get the MCSE study materials yourself at a fraction of the camp price. However, who has the willpower.</p>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui saepe aliquid perferendis neque eos commodi nulla, veniam ex mollitia, quod dignissimos id exercitationem corporis. At optio laudantium suscipit in nam!</p>
-              <blockquote class="quote">“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.”
-              <span class="author">― Marilyn Monroe</span></blockquote>
-              <p>Praesent vel mi bibendum, finibus leo ac, condimentum arcu. Pellentesque sem ex, tristique sit amet suscipit in, mattis imperdiet enim. Integer tempus justo nec velit fringilla, eget eleifend neque blandit. Sed tempor magna sed congue auctor. Mauris eu turpis eget tortor ultricies elementum. Phasellus vel placerat orci, a venenatis justo. Phasellus faucibus venenatis nisl vitae vestibulum. Praesent id nibh arcu. Vivamus sagittis accumsan felis, quis vulputate</p>
-            </div>
+              <p>Kegiatan BSM melalui pendekatan ekonomi saat ini sudah dapat merubah mindset tentang sampah yang dulunya sumber masalah sekarang telah berubah menjadi sampah adalah rupiah (berkah), merubah perilaku yang dulunya masyarakat membuang sampah ditong sampah ataupun di sungai sudah berubah sampah disetor ke BSM untuk dijadikan rupiah, dan menjadikan lingkungan yang bersih dan sehat seiring dengan perubahan mindset dan perilaku yang sudah menjadi budaya.</p>
+              <p>Semakin berkembangnya BSM hingga pada saat ini yang sudah di tahun ketujuh, BSM mengalami perkembangan yang sangat pesat denga njumlah nasabah yang tersebar diseluruh wilayah Malang Raya yang meliputi Kota Malang, Kabupaten Malang danKota Batu. Masyarakat dengan aktif berpartisipasi dalam kegiatan pengelolaan sampah yang diprogramkan oleh Bank Sampah Malang melalui Program Reduce, Reuse, dan Recycle (3R) yang bersinergi dengan pemerintah Kota Malang.</p>
+              <p>Kegiatan nasabah BSM yaitu memilah sampah,memanfaatkan sampah dan peduli terhadap lingkungan disekitarnya. Sedikit banyak mereka telah ikut berkontribusi untuk lingkungan khususnya di Kota Malang. Dengan demikian, Bank Sampah Malang bersama Dinas Lingkungan Hidup Kota Malang dan CSRPT. PLN mengapresiasi para nasabah karena telah berkontribusi danberperanaktif dalam program pengelolaan sampah tersebut dalam kegiatan Temu Nasabah (Gathering) BSM Tahun 2018.  Kegiatan tersebut secara khusus bertujuan membantu pemerintah Kota Malang untuk mengurangi volume sampah yang masuk ke Tempat Pemrosesan Akhir (TPA).</p>
+              </div>
           </div>
 
           <div class="comment-form-wrap pt-5">
@@ -150,7 +143,7 @@
             <div class="widget-box">
               <form action="#" class="search-widget">
                 <input type="text" class="form-control" placeholder="Enter keyword..">
-                <button type="submit" class="btn btn-primary btn-block">Search</button>
+                <button type="submit" class="btn btn-primary btn-block">Pencarian</button>
               </form>
             </div>
 
@@ -160,11 +153,10 @@
               <div class="divider"></div>
 
               <ul class="categories">
-                <li><a href="#">LifeStyle</a></li>
-                <li><a href="#">Food</a></li>
-                <li><a href="#">Healthy</a></li>
-                <li><a href="#">Sports</a></li>
-                <li><a href="#">Entertainment</a></li>
+                <li><a href="#">Workshop</a></li>
+                <li><a href="#">Magang</a></li>
+                <li><a href="#">Daur Ulang</a></li>
+                <li><a href="#">Pelatihan</a></li>
               </ul>
             </div>
 
@@ -175,7 +167,7 @@
 
               <div class="blog-item">
                   <a class="post-thumb" href="">
-                    <img src="../assets/img/blog/blog-1.jpg" alt="">
+                    <img src="../assets/img/blog/blog.jpg" alt="">
                   </a>
                   <div class="content">
                     <h6 class="post-title"><a href="#">Even the all-powerful Pointing has no control</a></h6>
@@ -189,7 +181,7 @@
 
               <div class="blog-item">
                   <a class="post-thumb" href="">
-                    <img src="../assets/img/blog/blog-2.jpg" alt="">
+                    <img src="../assets/img/blog/blog.jpg" alt="">
                   </a>
                   <div class="content">
                     <h6 class="post-title"><a href="#">Even the all-powerful Pointing has no control</a></h6>
@@ -203,7 +195,7 @@
 
               <div class="blog-item">
                   <a class="post-thumb" href="">
-                    <img src="../assets/img/blog/blog-3.jpg" alt="">
+                    <img src="../assets/img/blog/blog.jpg" alt="">
                   </a>
                   <div class="content">
                     <h6 class="post-title"><a href="#">Even the all-powerful Pointing has no control</a></h6>

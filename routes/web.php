@@ -12,19 +12,31 @@
 */
 
 Route::get('/', function () {
-    return view('index');
+    return view('pages.index');
 });
 
 Route::get('/about', function () {
-    return view('about');
+    return view('pages.about');
+});
+
+Route::get('/galery', function () {
+    return view('pages.galery');
 });
 
 Route::get('/blog', function () {
-    return view('blog');
+    return view('pages.blog');
+});
+
+Route::get('/blog/details', function () {
+    return view('pages.blog-details');
+});
+
+Route::get('/service', function () {
+    return view('pages.service');
 });
 
 Route::get('/classification', function () {
-    return view('classification');
+    return view('pages.classification');
 });
 
 Auth::routes();
